@@ -1,0 +1,16 @@
+# Maven build directory
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# NetBeans specific
+nbproject/private/
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+*.log
+*.class
