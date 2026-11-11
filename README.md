@@ -79,8 +79,8 @@ Pastikan perangkat sudah terpasang:
 
 1. Clone repositori atau unduh sumber kode:
    ```bash
-   git clone [https://github.com/<username>/ProdukApp.git
-   cd ProdukApp](https://github.com/egiyudasebayang-collab/ProdukApp.git)
+   git clone https://github.com/egiyudasebayang-collab/ProdukApp.git
+   cd ProdukApp
    ```
 2. Unduh dan pasang semua dependensi Maven:
    ```bash
